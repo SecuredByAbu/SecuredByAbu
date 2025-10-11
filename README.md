@@ -54,7 +54,7 @@ I am a **1st Year Computer Science** student, currently pursing a degree in **Cy
 <br>
 
 <!-- My Projects -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Rotating-golden-star.gif" width="45">&nbsp; ***My Best***
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Rotating-golden-star.gif" width="45">&nbsp; ***A-Level Project***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
@@ -70,7 +70,7 @@ I am a **1st Year Computer Science** student, currently pursing a degree in **Cy
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>COSMIC SPEEDRUN</strong> is a maze game developed in Python that combines strategy and decision-making, this game was made for my A-Level coursework in which I recieved an A.</p>
+        <p><strong>COSMIC SPEEDRUN</strong> is a maze game developed in Python that combines strategy and decision-making, this game was made for my Year 12/13 coursework in which I recieved an A.</p>
       </div>
     </td>
   </tr>
