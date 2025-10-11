@@ -66,7 +66,7 @@ I am a **1st Year Computer Science** student, currently pursing a degree in **Cy
           <img src="https://github.com/SecuredByAbu/A-Level-Computer-Science-Project/blob/main/CS%20PROJECT/COSMIC%20SPEEDRUN.png" width="500" style="object-fit: cover;" alt="Cosmic Speedrun">
         </a>
         <p>
-          <a href="https://github.com/SecuredByAbu/A-Level-Computer-Science-Project" target="_blank">
+          <a href="https://github.com/SecuredByAbu/A-Level-Computer-Science-Project/blob/main/CS%20PROJECT/main.py" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
