@@ -52,9 +52,15 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!-- My Projects -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Rotating-golden-star.gif" width="45">&nbsp; ***My Last Project***
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV5bTVyazR6dXJudGkxeDF6Y3psdWlzMnQ4N3VhbWg5NXdkMGVicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SATMX69yZw4v9KX6uU/giphy.gif" width="35">&nbsp; ***My Last Project***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
