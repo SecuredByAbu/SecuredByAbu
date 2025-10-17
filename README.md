@@ -7,15 +7,16 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/3c/df/aa/3cdfaa826b40efdc80c00b5d914399f9.gif"/>
 
-I am a **1st Year Computer Science** student, currently pursuing a degree in **Cybersecurity**, expanding my knowledge in programming, ethical hacking, and system defence while developing real-world projects that apply theory to practice. I have work shadowing experience as a cybersecurity intern for the insurance industry, and my goal is to become a skilled cybersecurity professional by gaining experience in network security, scripting, and vulnerability testing. My short-term goal is to build projects, earn industry certifications, and grow my understanding of real-world cyber threats.
+I am a **1st Year Computer Science** student, currently pursuing a degree in **Cybersecurity**, expanding my knowledge in programming, ethical hacking, and system defence while developing real-world projects that apply theory to practice. I have work shadowing experience as a cybersecurity intern for the insurance industry, and my goal is to become a skilled cybersecurity analyst by gaining experience in network security, threat hunting, and vulnerability testing. My short-term goal is to build projects, earn industry certifications, and grow my understanding of real-world cyber threats.
 - 📚 I’m currently learning ...
   - *Java*
   - *Logic and Computation*
-  - *Information Systems for System Development*
+  - *Network Analysis*
 - 🚀 I’m eager to work on new projects.
-  - *Creating a Web Application to experiment with protecting against SQL injection or XSS attacks.*
+  - *Creating Web Applications to experiment with protecting against SQL injections or XSS attacks.*
 - ✔ Feel free to ask me anything. I’m motivated to help and learn from others.
-- Outside Tech, I enjoy watching Sports 🏀🏈, playing Games 🎮, and socialising with friends ✌🏾.
+- 🔥 Outside Tech,
+- I enjoy watching Sports 🏀: (Celtics🍀) 🏈: (Ravens🐦‍⬛) and I'm elite at fighter games⚔️.
 - 📫 Reach out to me at: <a href="abubakrabdi678@gmail.com">abubakrabdi678@gmail.com</a>
 <br>
 
