@@ -5,9 +5,9 @@
 <!-- About me -->
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/3c/df/aa/3cdfaa826b40efdc80c00b5d914399f9.gif"/>
+<img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/3c/df/aa/3cdfaa826b40efdc80c00b5d914399f9.gif"/>
 
-I am a **1st Year Computer Science** student, currently pursuing a degree in **Cybersecurity**, expanding my knowledge in programming, ethical hacking, and system defence while developing real-world projects that apply theory to practice. I have work shadowing experience as a cybersecurity intern for the insurance industry, and my goal is to become a skilled cybersecurity analyst by gaining experience in network security, threat hunting, and vulnerability testing. My short-term goal is to build projects, earn industry certifications, and grow my understanding of real-world cyber threats.
+I am a **1st Year Computer Science** student, currently pursuing a degree in **Cybersecurity**, aspiring to become a **Cybersecurity Analyst**. I am expanding my knowledge in programming, ethical hacking, and system defence while developing real-world projects that apply theory to practice. So far, I have work shadowing experience as a cybersecurity intern for the insurance industry, and my end goal is to become a skilled cyber analyst by gaining experience in network security, threat hunting, and vulnerability testing. My short-term goal is to build projects, earn industry certifications, and grow my understanding of real-world cyber threats.
 - 📚 I’m currently learning ...
   - *Java*
   - *Logic and Computation*
@@ -37,52 +37,24 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Tech Stack***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Develop -->
 ###### Languages & Syntax:
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-<img align="right" width=410px alt="Unicorn" src="https://c.tenor.com/lde8nfFPT04AAAAd/tenor.gif"/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!-- My Projects -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV5bTVyazR6dXJudGkxeDF6Y3psdWlzMnQ4N3VhbWg5NXdkMGVicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SATMX69yZw4v9KX6uU/giphy.gif" width="35">&nbsp; ***My Last Project***
+<!-- Top Repos -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBtam13cWhkZ2lyOWVkMTV4eTZhMnVpbHFhd3QxaG5rM2hqcjBhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D3vfb7NlVuytTS4sux/giphy.gif" width="35">&nbsp; ***Top Repos***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Cosmic Speedrun</h3>
-      <div align="center">
-        <a href="https://github.com/SecuredByAbu/A-Level-Computer-Science-Project" target="_blank">
-          <img src="https://github.com/SecuredByAbu/A-Level-Computer-Science-Project/blob/main/CS%20PROJECT/COSMIC%20SPEEDRUN.png" width="500" style="object-fit: cover;" alt="Cosmic Speedrun">
-        </a>
-        <p>
-          <a href="https://github.com/SecuredByAbu/A-Level-Computer-Science-Project/blob/main/CS%20PROJECT/main.py" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>COSMIC SPEEDRUN</strong> is a maze game developed in Python that combines strategy and decision-making, this game was made for my Year 12/13 coursework in which I recieved an A.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-<br>
+![](https://github-contributor-stats.vercel.app/api?username=SecuredByAbu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
@@ -102,7 +74,7 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 </table>
 </p>
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
