@@ -15,7 +15,7 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 - 🚀 I’m eager to work on new projects.
   - *Creating Web Applications to experiment with protecting against SQL injections or XSS attacks.*
 - 🔥 Outside Tech ...
-  - *I enjoy watching American Sports 🏀: (Celtics🍀) 🏈: (Ravens🐦‍⬛) and I'm very good at fighter games⚔️.*
+  - *I enjoy watching American Sports 🏀: (Celtics🍀) 🏈: (Ravens🐦‍⬛) and I like playing fighter games⚔️.*
 - ✔ Feel free to ask me anything. I’m motivated to help and learn from others.
 - 📫 Reach out to me at: <a href="abubakrabdi678@gmail.com">abubakrabdi678@gmail.com</a>
 <br>
