@@ -55,7 +55,6 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 
 ![](https://github-contributor-stats.vercel.app/api?username=SecuredByAbu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
