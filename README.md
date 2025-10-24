@@ -18,12 +18,7 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 - 📫 Reach out to me at: <a href="abubakrabdi678@gmail.com">abubakrabdi678@gmail.com</a>
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=SecuredByAbu&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
+  
 
 <!-- Social Links -->
 <div align="center">
@@ -33,7 +28,7 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
  <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
 </div>
 
-<br>
+
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Tech Stack***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
