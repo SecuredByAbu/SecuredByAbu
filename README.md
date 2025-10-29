@@ -7,7 +7,7 @@
 
 <img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/3c/df/aa/3cdfaa826b40efdc80c00b5d914399f9.gif"/>
 
-I am a **1st Year Computer Science** student, currently pursuing a degree in **Cybersecurity**, aspiring to become a **Cybersecurity Analyst**. I am expanding my knowledge in programming, ethical hacking, and system defence while developing real-world projects that apply theory to practice. So far, I have work shadowing experience as a cybersecurity intern for the insurance industry, and my end goal is to become a skilled cyber analyst by gaining experience in network security, threat hunting, and vulnerability testing. My short-term goal is to build projects, earn industry certifications, and grow my understanding of real-world cyber threats.
+I am a **1st Year Computer Science** student, currently pursuing a degree in **Cybersecurity**, aspiring to become a **Cybersecurity Analyst**. I am expanding my knowledge in programming, ethical hacking, and system defence while developing real-world projects that apply theory to practice. My end goal is to become a skilled cyber analyst by gaining experience in network security, threat hunting, and vulnerability testing. My short-term goal is to build projects, earn industry certifications, and grow my understanding of real-world cyber threats.
 - 📚 I’m currently learning ...
   - *Java*
   - *Logic and Computation*
