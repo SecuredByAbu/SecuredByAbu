@@ -70,9 +70,12 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://i.giphy.com/shpIYfSrJ5d9wqrumG.webp" width="30">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=SecuredByAbu%2FViews-Counter">
-    <img src="https://i.giphy.com/shpIYfSrJ5d9wqrumG.webp" width="30">
+  
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SecuredByAbu&color=blue&style=liquid" 
+  width="120" height="24"/>
+</p>
+    
 </div>
 <br>
 <br>
