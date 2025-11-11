@@ -1,34 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/SecuredByAbu">Abu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
-
-<!-- About me -->
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
-
-<img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/3c/df/aa/3cdfaa826b40efdc80c00b5d914399f9.gif"/>
-
-I am a **1st Year Computer Science** student, currently pursuing a degree in **Cybersecurity**, aspiring to become a **Cybersecurity Analyst**. I am expanding my knowledge in programming, ethical hacking, and system defence while developing real-world projects that apply theory to practice. My end goal is to become a skilled cyber analyst by gaining experience in network security, threat hunting, and vulnerability testing. My short-term goal is to build projects, earn industry certifications, and grow my understanding of real-world cyber threats.
-- 📚 I’m currently learning ...
-  - *Java*
-  - *Logic and Computation*
-  - *Network Analysis*
-- 🚀 I’m eager to work on new projects.
-  - *Creating Web Applications to experiment with protecting against SQL injections or XSS attacks.*
-- ✔ Feel free to ask me anything. I’m motivated to help and learn from others.
-- 📫 Reach out to me at: <a href="abubakrabdi678@gmail.com">abubakrabdi678@gmail.com</a>
-<br>
-
-  
-
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:abubakrabdi678@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/abubakr-abdi/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-
- <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
-</div>
-
-
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Tech Stack***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -77,6 +48,5 @@ I am a **1st Year Computer Science** student, currently pursuing a degree in **C
 </p>
     
 </div>
-<br>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
