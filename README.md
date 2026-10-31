@@ -29,7 +29,7 @@ I'm the greatest Brawlhalla player of all time<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SecuredByAbu&color=blue&style=liquid" 
@@ -37,5 +37,5 @@ I'm the greatest Brawlhalla player of all time<br>
 </p>
     
 </div>
-<br>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
