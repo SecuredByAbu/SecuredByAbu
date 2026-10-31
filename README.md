@@ -7,13 +7,13 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBtam13cWhkZ2lyOWVkMTV4eTZhMnVpbHFhd3QxaG5rM2hqcjBhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D3vfb7NlVuytTS4sux/giphy.gif" width="25">&nbsp; Currently building projects and earning certifications.
 <br>
-<br>
 
-Fun Facts:
-<br> <img src="https://media.discordapp.net/attachments/893891742657556554/1566154836955627601/58419c6aa6515b1e0ad75a61.png?ex=6ae782da&is=6ae6315a&hm=bf383b62d23f4afb7fd8d9f46ea28a3c0cad8b3a6e8529c84a71e4689ca8c9ca&=&format=webp&quality=lossless" width="20">&nbsp;
+
+###### Fun Facts:
+ <img src="https://media.discordapp.net/attachments/893891742657556554/1566154836955627601/58419c6aa6515b1e0ad75a61.png?ex=6ae782da&is=6ae6315a&hm=bf383b62d23f4afb7fd8d9f46ea28a3c0cad8b3a6e8529c84a71e4689ca8c9ca&=&format=webp&quality=lossless" width="20">&nbsp;
 I support the Boston Celtics
 <br> <img src="https://media.discordapp.net/attachments/893891742657556554/1566157561978290406/gxj79z8fpe7d1__2_-removebg-preview.png?ex=6ae78564&is=6ae633e4&hm=87679f721990e92fabc2fb9b372b70f87d9efb21800cba5c04a5b6881c24a901&=&format=webp&quality=lossless" width="20">&nbsp;
-I enjoy reading One Piece
+I like reading One Piece
 <br>
 <img src="https://cms.brawlhalla.com/c/uploads/2019/09/Logo_BrawlhallaHammer.png" width="20">&nbsp;
 I'm the greatest Brawlhalla player of all time<br>  
